@@ -2,6 +2,9 @@
 .videoThumbnail {
   cursor: pointer;
 }
+video {
+  border-radius: 16px;
+}
 .video {
   position: relative;
 }
